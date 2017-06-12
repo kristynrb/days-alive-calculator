@@ -4,6 +4,9 @@
 
 Fork and clone this repository and follow along in lecture!
 
+- run `bundle install`
+- `shotgun -p 8080 -o 0.0.0.0`
+
 (WIP)
 
 
